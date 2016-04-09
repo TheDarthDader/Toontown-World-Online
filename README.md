@@ -28,11 +28,3 @@ The Developer(s) must include notes in each commit to help understand changes an
 
 Changes will be bulked together in a release.
 If there is an **EMERGENCY bug fix** that is breaking or **hindering performance** of the game it may be necessary to speed up the developing and testing process - if that cannot happen (not enough time - issue** too severe**) it will be quickly **released** to **release/patch branch**
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-Repo Owner: Reese Jenner
-
-### Other community or team contact ###
-Game Admins:
